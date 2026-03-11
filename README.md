@@ -98,26 +98,7 @@ On every startup the app checks the `app_config` table in Supabase:
 - Flutter 3.x
 - Dart SDK
 - A [Supabase](https://supabase.com) project (shared with the dashboard)
-
-### Installation
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/your-username/families-app.git
-cd families-app
-
-# 2. Install dependencies
-flutter pub get
-
-# 3. Configure Supabase credentials
-# Edit lib/core/constants.dart or your .env file:
-SUPABASE_URL=https://your-project.supabase.co
-SUPABASE_ANON_KEY=your-anon-key
-
-# 4. Run the app
-flutter run
-```
-
+- 
 ---
 
 ## 🗄 Database Schema
