@@ -122,14 +122,16 @@ families
 ```
 
 ---
+<h3 align="center">واجهات نظام جمع البيانات</h3>
+
 <p align="center">
-  <img src="MainPages.png" width="100" />
-  <img src="steps_to_sing_family.png" width="100" />
+  <img src="./screenshote/Main.png" width="350" alt="Main Pages" />
+  <img src="./screenshote/Steps.png" width="350" alt="Steps to sign family" />
 </p>
 
-| الصورة الأولى | الصورة الثانية | الصورة الثالثة |
-| :---: | :---: | :---: |
-| ![وصف 1](steps_to_sing_family.png) | ![وصف 2](MainPages.png)
+<p align="center">
+  <i>نظام متكامل لتوثيق بيانات الأسر وتفاصيل النزوح بدقة عالية</i>
+</p>
 ---
 ## 🔒 Supabase RLS
 
