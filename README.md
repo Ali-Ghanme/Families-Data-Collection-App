@@ -122,7 +122,15 @@ families
 ```
 
 ---
+<p align="center">
+  <img src="MainPages.png" width="100" />
+  <img src="steps_to_sing_family.png" width="100" />
+</p>
 
+| الصورة الأولى | الصورة الثانية | الصورة الثالثة |
+| :---: | :---: | :---: |
+| ![وصف 1](steps_to_sing_family.png) | ![وصف 2](MainPages.png)
+---
 ## 🔒 Supabase RLS
 
 Field researchers can only:
